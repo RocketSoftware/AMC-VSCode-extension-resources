@@ -1,3 +1,3 @@
-# AMC VSCode extension resources
+# VS Code extension resources
 
-Resoources for the AMC VS Code extensions
+Resources for the Rocket Software Inc. Visual Studio Code extensions
